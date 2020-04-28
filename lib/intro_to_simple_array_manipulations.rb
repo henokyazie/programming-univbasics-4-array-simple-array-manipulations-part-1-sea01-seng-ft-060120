@@ -24,4 +24,9 @@ def using_shift(array)
   lagos = @my_favorite_cities.shift 
   p lagos
 end
+
+def shift_with_args(array)
+  
+  
+end
   
